@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"functional": "c",
+			"array": "c",
+			"initializer_list": "c",
+			"utility": "c"
+		}
+	}
+}
